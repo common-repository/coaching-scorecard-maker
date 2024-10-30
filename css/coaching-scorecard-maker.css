@@ -1,0 +1,98 @@
+﻿/* CSS Document 
+
+Copyright (c) 2011 - Effexis & BuildAThrivingPractice.com - All Rights Reserved
+*/
+
+#content .csm-scorecard-headline, .csm-scorecard-headline { 
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: #000080;
+	text-align: center;
+}
+
+#content .csm-main-table, .csm-main-table  {
+	border-style: solid;
+	border-width: 1px;
+	width: 98%;
+	border-color: #000080;
+	border-collapse: collapse;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+#content .csm-title-item-column, .csm-title-item-column {
+	padding: 5px;
+	margin: 0px;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #000080;
+	text-align: center;
+}
+
+#content .csm-title-item, .csm-title-item 
+{
+	margin: 0;
+}
+
+#content .csm-row tr th,
+#content .csm-row thead th {
+	padding: 0;
+}
+#content .csm-row tr {
+	border-top: none;
+	padding: 0;
+}
+
+#content .csm-title-score-column, .csm-title-score-column {
+	padding: 5px;
+	margin: 0px;
+	border-width: 1px;
+	border-color: #000080;
+	text-align: center;
+	width: 50px;
+	border-bottom-style: solid;
+}
+
+#content .csm-group-start, .csm-group-start {
+	padding: 10px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000080;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-style: none;
+}
+
+#content .csm-group-title, .csm-group-title { margin: 0; }
+
+#content .csm-card-submit-column, .csm-card-submit-column 
+{
+	border-style: none;
+	padding: 5px;
+}
+
+
+#content .csm-card-item-column, .csm-card-item-column {
+	padding: 10px;
+	border-style: none;
+}
+
+#content .csm-card-item-description, .csm-card-item-description {
+	padding: 0px;
+	margin: 0px;
+}
+
+#content .csm-card-score-column, .csm-card-score-column {
+	padding: 10px;
+	text-align: right;
+	width: 50px;
+	vertical-align: top;
+	border-style: none;
+}
+
+#content .csm-card-score-input, .csm-card-score-input { margin: 0; }
+
+#content .csm-card-submit, .csm-card-submit { }
+
+#content .csm-credit, .csm-credit { margin: 0px; }
